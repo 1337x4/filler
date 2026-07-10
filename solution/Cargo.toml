@@ -1,0 +1,12 @@
+[package]
+name = "filler_robot"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "filler_robot"
+path = "src/main.rs"
+
+[dependencies]
+
+[dev-dependencies]
